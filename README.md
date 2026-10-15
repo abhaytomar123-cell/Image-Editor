@@ -18,4 +18,4 @@ A browser-based Image Editor built using HTML, CSS, and JavaScript. This project
 
 ## Live Demo
 
-[View Live Demo] https://abhaytomar123-cell.github.io/Image-Editor/](https://abhaytomar123-cell.github.io/Image-Editor/)
+[View Live Demo] https://abhaytomar123-cell.github.io/Image-Editor/
